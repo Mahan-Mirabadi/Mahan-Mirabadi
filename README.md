@@ -2,14 +2,14 @@
 
 <img align="right" alt="Coding gif" width="250px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/3209750b156032804438ac8843a42a49.gif">
 
-I'm a passionate **Python and Django Developer** based in the vibrant city of **Tehran, Iran** 🇮🇷.
+I'm a passionate **Python and Django Developer** based in **Tehran, Iran** 🇮🇷.
 
 I love building things for the web and I'm always driven by a curiosity to learn new technologies and improve my skills. The world of software development is constantly evolving, and I enjoy the challenge of keeping up!
 
 *   🐍 Deeply interested in the Python ecosystem.
 *   🚀 Building web applications with the Django framework.
 *   🌱 Always learning and exploring new tools and techniques.
-*   🔭 Currently focusing on [Mention a specific area or type of project you're interested in, e.g., building scalable APIs, working with databases, exploring front-end frameworks, etc. - Optional].
+*   🔭 Currently focusing on improving my understanding of django and python in order to improve my skills.
 *   👯 Open to collaborating on interesting open-source Python/Django projects.
 
 ---
